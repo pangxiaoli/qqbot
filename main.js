@@ -1,0 +1,5 @@
+require('./lib/base')
+require('./lib/group')
+require('./lib/birthday')
+require('./lib/music')
+require('./lib/notice')
